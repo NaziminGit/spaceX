@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: black;
+   
+ }
+.div1{
+    background-image: url(image/div1.jpg);
+    background-size: cover;
+    height:100vh;
+    /* width: 100%; */
+    /* background-color: aquamarine; */
+}
+.logo{
+    width: 200px;
+
+}
+nav{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    margin-right: 10px;  
+    
+}
+nav a{
+    color: rgb(247, 244, 244);
+}
+.shop{
+    /* margin-left: 10px;
+    margin-right: 40px;
+    display: flex; */
+}
+.shop img{
+    height: 15px;
+}
+.shop a{
+    margin-right: 10px;
+}
+
+.text{
+    margin-top: 230px;
+    margin-left: 50px;
+    color: white; 
+}
+.text h1{
+    margin-top:5px;
+    margin-bottom: 30px;
+    font-weight:800;
+    font-size: 40px;
+}
+.text p{
+    font-size: 20px;
+}
+.button{
+    /* margin: top 10px; */
+    padding: 15px 50px;
+    color: white;
+    font-weight: 700;
+    background: transparent;
+    border: 2px solid white;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+
+/* -------------------------div2------------------- */
+
+ .div2{
+    background-image: url(image/div2.jpg);
+    background-size: cover;
+    height:100vh;
+}
+
+/* -------------------------div3------------------- */
+
+.div3{
+    background-image: url(image/div3.jpg);
+    background-size: cover;
+    height:100vh;
+}
+
+/* -------------------------div2------------------- */
+
+.div4{
+    background-image: url(image/div4.webp);
+    background-size: cover;
+    height:100vh;
+}
+
+/* -------------------------last div------------------- */
+
+.lastdiv{
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    font-size: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.lastdiv a{
+    color: white;
+    font-weight: 800;
+}
+.lastdiv a:hover{
+    color: gray;
+}
+
+.text1{
+    padding: 300px;
+    margin-left: -250px;
+    color: white; 
+}
+.text1 h1{
+    margin-top:5px;
+    margin-bottom: 30px;
+    font-weight:800;
+    font-size: 40px;
+}
+.text1 p{
+    font-size: 20px;
+}
+.button{
+    /* margin: top 10px; */
+    padding: 15px 50px;
+    color: white;
+    font-weight: 700;
+    background: transparent;
+    border: 2px solid white;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+}
+.main{
+    height: 00px;
+}
